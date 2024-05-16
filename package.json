@@ -17,7 +17,7 @@
   "author": "wil",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@latest",
+    "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
